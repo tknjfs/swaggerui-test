@@ -3,7 +3,7 @@ window.onload = function() {
 
   // the following lines will be replaced by docker/configurator, when it runs in a docker-container
   window.ui = SwaggerUIBundle({
-    url: "https://raw.githubusercontent.com/tknjfs/Eclipse-Charts/main/openapi.yaml?token=GHSAT0AAAAAACP2IGT3DHMHUJHKXCYXSUC6ZRKMXDQ",
+    url: "https://raw.githubusercontent.com/tknjfse/MIS/main/REST-API.yml?token=GHSAT0AAAAAACSFZ56ZYNX6DBH4NXUUKNWUZSAX6IA",
     dom_id: '#swagger-ui',
     deepLinking: true,
     presets: [
